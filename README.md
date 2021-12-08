@@ -10,16 +10,19 @@ Classifying 6 different emotion from text by using a Sequentially trained Keras 
 _________________________________________________________________________________________________________________________________________________
 
 **Results**  
+
 ![](Extras/Images/Results.png)  
 _________________________________________________________________________________________________________________________________________________
 
 **Accuracy and Accuracy Graphs**  
+
 ![](Extras/Images/accuracry.png)  
 ![](Extras/Images/accuracryGraph.png)  
 ![](Extras/Images/confusionMatrix.png)  
 _________________________________________________________________________________________________________________________________________________
 
 **Model Summary and Model Loss**  
+
 ![](Extras/Images/modelSummary.jpg)  
 ![](Extras/Images/modelLossGraph.png)  
 _________________________________________________________________________________________________________________________________________________
