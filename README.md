@@ -5,7 +5,7 @@ Classifying 6 different emotion from text by using a Sequentially trained Keras 
 
 
 
-(https://github.com/Elusive7733/Sentiment-Analysis/Extras/Images/Results.png?raw=true)
+![404-Image Not Found](https://github.com/Elusive7733/Sentiment-Analysis/Extras/Images/Results.png?raw=true)
 
 
 
