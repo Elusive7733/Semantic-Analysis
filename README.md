@@ -5,7 +5,7 @@ Classifying 6 different emotion from text by using a Sequentially trained Keras 
 
 
 
-![](Extras/Images/Results.PNG)
+![](Extras/Images/Results.png)
 
 
 
