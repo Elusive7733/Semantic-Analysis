@@ -16,11 +16,11 @@ ________________________________________________________________________________
 **Accuracy and Accuracy Graphs**  
 ![](Extras/Images/accuracry.png)  
 ![](Extras/Images/accuracryGraph.png)  
-![](Extras/Images/Confustion Matrix.png)  
+![](Extras/Images/confusionMatrix.png)  
 _________________________________________________________________________________________________________________________________________________
 
 **Model Summary and Model Loss**  
-![](Extras/Images/Model Summary.jpg)  
+![](Extras/Images/modelSummary.jpg)  
 ![](Extras/Images/modelLossGraph.png)  
 _________________________________________________________________________________________________________________________________________________
 
