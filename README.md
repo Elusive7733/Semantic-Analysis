@@ -9,26 +9,26 @@ Classifying 6 different emotion from text by using a Sequentially trained Keras 
   Huge_Dataset.ipynb
 _________________________________________________________________________________________________________________________________________________
 
-**Results**
-![](Extras/Images/Results.png)
+**Results**  
+![](Extras/Images/Results.png)  
 _________________________________________________________________________________________________________________________________________________
 
-**Accuracy and Accuracy Graphs**
-![](Extras/Images/accuracry.png)
-![](Extras/Images/accuracryGraph.png)
-![](Extras/Images/Confustion Matrix.png)
+**Accuracy and Accuracy Graphs**  
+![](Extras/Images/accuracry.png)  
+![](Extras/Images/accuracryGraph.png)  
+![](Extras/Images/Confustion Matrix.png)  
 _________________________________________________________________________________________________________________________________________________
 
-**Model Summary and Model Loss**
-![](Extras/Images/Model Summary.jpg)
-![](Extras/Images/modelLossGraph.png)
+**Model Summary and Model Loss**  
+![](Extras/Images/Model Summary.jpg)  
+![](Extras/Images/modelLossGraph.png)  
 _________________________________________________________________________________________________________________________________________________
 
-**Tools / Libraries**
-1: Tensorflow
-2: Sklearn
-3: NLTK
-4: Seaborn
-5: Pandas
-6: Matplotlib
-7: Numpy
+**Tools / Libraries**  
+1: Tensorflow  
+2: Sklearn  
+3: NLTK  
+4: Seaborn  
+5: Pandas  
+6: Matplotlib  
+7: Numpy  
